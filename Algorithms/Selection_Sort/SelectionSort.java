@@ -8,7 +8,7 @@ public class SelectionSort {
             int min_index = i;
             for(int j = i + 1; j < arr.length; j++){
                 if(arr[min_index] > arr[j]){
-                    min_index = j;
+                    min_index = j; 
                 }
             }
 
