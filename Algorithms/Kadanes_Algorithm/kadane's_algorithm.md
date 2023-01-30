@@ -11,3 +11,8 @@
     5. If, at any point, curSum is negative, reset it to 0.
     6. If, at any point, curSum is greater than maxSum then update maxSum.
 
+## Complexity
+- Time complexity: O(n)
+
+- Space complexity: O(1)
+
