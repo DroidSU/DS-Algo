@@ -13,5 +13,5 @@ Greedy algorithm can be approached considering the following points:
 
 ## References
 
-1. For excellent explanation of greedy algorithm - https://www.programiz.com/dsa/greedy-algorithm
-2. For everything greedy - https://www.geeksforgeeks.org/greedy-algorithms/#introduction
+1. For excellent explanation of greedy algorithm - <https://www.programiz.com/dsa/greedy-algorithm>
+2. For everything greedy - <https://www.geeksforgeeks.org/greedy-algorithms/#introduction>
